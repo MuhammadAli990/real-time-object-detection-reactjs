@@ -1,0 +1,8 @@
+#root {
+  text-align: center;
+}
+
+#video{
+  border-radius: 4px;
+  box-shadow: 6px 6px 20px rgba(17, 17, 17, 0.753);
+}
